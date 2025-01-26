@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/Sandorrx/ba-l-yoruz/tree/main?tab=readme-ov-file">
-    <img src="./icon.png" alt="Logo" width="125" height="125" style="background:white; vertical-align: middle;">
+    <img src="./icon.png" alt="Logo" width="300" height="300" style="background:white; vertical-align: middle;">
   </a>
 </h1>
 
