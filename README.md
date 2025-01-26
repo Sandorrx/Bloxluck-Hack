@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>Bloxluck Predictor</h3>
-  Do you want to win?
+ ** Do you want to win?**
   <br />
   <br />
 </div>
@@ -26,7 +26,7 @@
 
 ## 📖 About
 
-BloxLuck Predictor allows you to grow your inventory in Adopt Me! and Murder Mystery 2. It allows you to win with a **80% accuracy** by calculating the seeds Bloxluck uses. 🏆
+BloxLuck Predictor allows you to grow your inventory in Adopt Me! and Murder Mystery 2. It allows you to win with a **89% accuracy** by calculating the seeds Bloxluck uses. 🏆
 
 ## 🔧 Installation
 
@@ -53,7 +53,7 @@ BloxLuck Predictor allows you to grow your inventory in Adopt Me! and Murder Mys
 
 4. **Enter the Key**:
    - When the Bloxluck Predictor panel appears, enter the key
-     - (you can get key with contact me on discord: xizdriab) 🔑
+     - (vLaIZPlBzsHvkZdyDsImkUhJO) 🔑
      - Make sure to enter it **exactly** as shown!
 # How It Works
 
